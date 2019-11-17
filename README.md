@@ -1,2 +1,1 @@
-   
-######(Eyyüp Alkış)
+Eyyüp Alkış
