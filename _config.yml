@@ -8,7 +8,7 @@ logo:               'assets/img/image.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://eyyupalkis.github.io/alkiseyyup
+url:                https://eyyupalkis.github.io/me
 
 # Jekyll
 permalink:          /:title/
@@ -38,7 +38,7 @@ disqus_shortname:   alkiseyyup
 #ad-slot:
 #bing-verify:
 email:              alkis.eyyup@gmail.com
-twitter:            username
+twitter:            rathi246
 #facebook:           username
 github-url:         EyyupAlkis
 stackoverflow:     10106788/eyyüp-alkış   from a "http://stackoverflow.com/users/10106788/eyyüp-alkış" link
