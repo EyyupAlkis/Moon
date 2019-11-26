@@ -4,7 +4,7 @@ bio:                'Mid Android & jr. Java Developer'
 description:        "Mid Android & jr. Java Developer"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/image.jpg'
+logo:               'assets/img/profile_image.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
