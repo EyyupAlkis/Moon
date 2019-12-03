@@ -8,3 +8,6 @@ feature: https://developer.android.com/images/jetpack/jetpack-hero.svg
 comments: true
 ---
 ###Android Jetpack Başlangıç vira bismillah
+asdasdasd
+asdasda
+asdasd
