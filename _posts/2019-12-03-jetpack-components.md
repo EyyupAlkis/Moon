@@ -8,4 +8,4 @@ feature: https://developer.android.com/images/jetpack/jetpack-hero.svg
 comments: true
 ---
 
-###Android Jetpack Mimari Bileşenler
+### Android Jetpack Mimari Bileşenler
