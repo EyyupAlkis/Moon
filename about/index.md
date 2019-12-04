@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkımda
+title: About Me
 tags: [eyyupalkis, Eyyüp Alkış, Alkış, Android Developer]
 date: 2019-12-03
 comments: false
