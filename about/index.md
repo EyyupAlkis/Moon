@@ -5,7 +5,7 @@ tags: [eyyupalkis, Eyyüp Alkış, Alkış,alkiseyyup, Android Developer]
 date: 2019-12-03
 comments: false
 ---
-<center> ## Eyyüp ALKIŞ - Android Developer </center>
+## Eyyüp ALKIŞ - Android Developer
 
 
 I was born in 1994 in a charming neighborhood of Şanlı Urfa. I completed my secondary and high school education in Gaziantep. In 2013, I gained Biomedical Engineering from Namık Kemal University. And after completing one year of English preparatory studies at the same university, I started my undergraduate education in 2014 and completed it in 2018. I'm currently working for more than a year IWT (Istanbul Web Design) is actively developing android projects.te
