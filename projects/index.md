@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Projelerim
+title: Projects
 excerpt: "Bütün Projelerim"
 comments: false
 ---
