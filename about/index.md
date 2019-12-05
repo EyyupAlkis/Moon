@@ -15,7 +15,9 @@ Although my study area is biomedical engineering, my discovery of my interest in
 
 If you have project to take a consultant, business offer or anything to ask please do not hesitate to click button below.
 
-<div markdown="0"><a href="mailto:{{ site.email }}" class="btn btn-info">Contact Me</a></div>
+
+<center><div markdown="0"><a href="mailto:{{ site.email }}" class="btn btn-info">Contact Me</a></div></center>
+
 
 
 
