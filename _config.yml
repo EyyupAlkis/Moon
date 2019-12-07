@@ -1,7 +1,8 @@
 # Site
 title:              EYYÜP ALKIŞ
 bio:                'Mid Android & jr. Java Developer - Blog posts will be in Turkish. For personal information click About Me.'
-description:        "Mid Android & jr. Java Developer"
+description:        "Eyyüp Alkış's portfolio, cv, projects, blogs,information"
+tagline :           "Eyyüp Alkış's portfolio, cv, projects, blogs,information"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile_image.jpg'
@@ -9,6 +10,7 @@ background:         'assets/img/background_image.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://eyyupalkis.github.io/me
+
 
 # Jekyll
 permalink:          /:title/
