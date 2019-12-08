@@ -75,6 +75,7 @@ gems:
 
 # Google Analytics
 google_analytics: UA-152797941-1
+google.analytics: true
 
 jekyll-mentions:
 base_url: https://github.com
