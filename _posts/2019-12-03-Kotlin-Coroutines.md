@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Kotlin Coroutine"
+title: "Kotlin Coroutines"
 date: 2019-12-03
-excerpt: "Kotlin Coroutine"
+excerpt: "Kotlin Coroutines"
 tags: [Coroutine, Jetpack Components, Coroutine Nedir]
 feature: https://miro.medium.com/max/4800/1*hOir8SBFtIAHTng6F-VxIA.png
 comments: true
