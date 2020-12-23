@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Android Jetpack ile Tanışın"
+title: "Kotlin Coroutine"
 date: 2019-12-03
-excerpt: "Android Jetpack Architecture Components"
+excerpt: "Kotlin Coroutine"
 tags: [Coroutine, Jetpack Components, Coroutine Nedir]
 feature: https://miro.medium.com/max/4800/1*hOir8SBFtIAHTng6F-VxIA.png
 comments: true
